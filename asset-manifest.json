@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react__website/static/css/main.47e50dbb.css",
+    "main.js": "/react__website/static/js/main.bedb507f.js",
+    "index.html": "/react__website/index.html",
+    "main.47e50dbb.css.map": "/react__website/static/css/main.47e50dbb.css.map",
+    "main.bedb507f.js.map": "/react__website/static/js/main.bedb507f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.47e50dbb.css",
+    "static/js/main.bedb507f.js"
+  ]
+}
